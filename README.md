@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Youssef Khafaga a computer engineering student in faculty of engineering Alexandria university.
 - 👀 I’m interested in web and andriod development.
-- 🌱 I’m currently learning problem solving with different programming languages and creating a simple programms along with the faculty projects.
+- 🌱 I’m currently learning problem solving with different programming languages and creating a simple programs along with the faculty projects.
 - 📫 E-mail : ykhfaga@gmail.com .. linkedin : https://www.linkedin.com/in/youssef-khafaga-655b18205/
